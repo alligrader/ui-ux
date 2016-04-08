@@ -4,6 +4,9 @@
 
 ## Students
 
+- High: As a Student Judith can create an account so that she can access the site
+- High: As a Student Judith can login so that she can access the site
+- High: As a Student Judith can logout so that she can protect her information
 - High: As a student, Judith can see the classes she's enrolled in (those that have an account on this platform)
 - Low: As a student, Judith can see the classes she's enrolled in (those that don't have an account on this platform)
 - Medium: As a student, Judith can manage her personal information (name, email address)
@@ -26,8 +29,11 @@
 
 ## Professors
 
+- High: As a professor Bill can create an account so that he can access the site
+- High: As a professor Bill can login so that he can access the site
+- High: As a professor Bill can logout so that he can protect his information
 - High: As a professor, Bill can create a new assignment for a course
-- High: As a professor, Bill can create a barebones repository for each student to start
+- High: As a professor, Bill can create a barebones repository for each student to start, so that his students have any external resources
 - High As a professor, Bill can assign an assignment to every student enrolled in a course
 - High: As a professor, Bill can run automatic tests against repositories in a secure, remote environment so that he doesn't have to do it on his own computer.
 - High: As a professor, Bill can use git version control with his class so that he can teach students how to use github and he can manage versions of projects. 
@@ -47,6 +53,9 @@
 
 ## TAs
 
+- High: As a TA Roger can create an account so that he can access the site
+- High: As a TA Roger can login so that he can access the site
+- High: As a TA Roger can logout so that he can protect his information
 - High: As a TA, Roger can see a suggested grade and obvious errors so that he doesn't need to check everything.
 - Low: As a TA, Roger can see potential cheating and check it out so that he doesn't have to check every single student's project. 
 - High: As a TA, Roger can access all his students' projects in one place so that he doesn't have to go looking for them and he can maintain a grade history.

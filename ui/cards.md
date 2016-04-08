@@ -2,20 +2,22 @@
 
 ---
 
-## Name:
+## Name Creation, Login, Logout:
 
 ### Stories:
-- Tests
+- High: As a Student Judith can create an account so that she can access the site
+- High: As a Student Judith can login so that she can access the site
+- High: As a Student Judith can logout so that she can protect her information
+- High: As a professor Bill can create an account so that he can access the site
+- High: As a professor Bill can login so that he can access the site
+- High: As a professor Bill can logout so that he can protect his information
+- High: As a TA Roger can create an account so that he can access the site
+- High: As a TA Roger can login so that he can access the site
+- High: As a TA Roger can logout so that he can protect his information
 
 ---
 
-## Name:
-
-### Stories:
-- Test
-
----
-
+## Name Projects:
 
 - High: As a TA, Roger can access all his students' projects in one place so that he doesn't have to go looking for them and he can maintain a grade history.
 
